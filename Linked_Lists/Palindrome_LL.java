@@ -1,4 +1,4 @@
-// LeetCode 234 // 
+// LeetCode 234 //
 
 class Solution {
     public boolean isPalindrome(ListNode head) {
