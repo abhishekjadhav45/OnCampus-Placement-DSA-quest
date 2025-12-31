@@ -1,4 +1,4 @@
-// LeetCode  // 
+// LeetCode CC2  // 
 class Solution {
     public int change(int amount, int[] coins) {
 
